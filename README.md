@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @payamesfandiari
 - 👀 Data Scientists, Engineer and SDE
-- 🌱 I'm currently Head of Data Science and Engineering at @blubank
+- 🌱 I'm currently Head of Data Science and Engineering at @SnappFood
 - 📫 Reach me at payam.esfandiari@gmail.com
 
 <!---
